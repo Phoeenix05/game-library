@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Phoeenix05`, `game-library`, `pho3n1x05`, `linkedin_username`, `icloud.com`, `anton.fredriksson2`, `Game Library`, `App for searching and managing games`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Phoeenix05`, `game-library`, `pho3n1x05`, `linkedin_username`, `gmail`, `anton.e.fredriksson+github`, `Game Library`, `App for searching and managing games`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -208,7 +208,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@pho3n1x05](https://twitter.com/pho3n1x05) - anton.fredriksson2@icloud.com.com
+Your Name - [@pho3n1x05](https://twitter.com/pho3n1x05) - anton.e.fredriksson+github@gmail.com
 
 Project Link: [https://github.com/Phoeenix05/game-library](https://github.com/Phoeenix05/game-library)
 
@@ -239,8 +239,8 @@ Project Link: [https://github.com/Phoeenix05/game-library](https://github.com/Ph
 [issues-url]: https://github.com/Phoeenix05/game-library/issues
 [license-shield]: https://img.shields.io/github/license/Phoeenix05/game-library.svg?style=for-the-badge
 [license-url]: https://github.com/Phoeenix05/game-library/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+<!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/linkedin_username -->
 [product-screenshot]: images/screenshot.png
 <!-- [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/

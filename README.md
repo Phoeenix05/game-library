@@ -165,16 +165,16 @@ pnpm tauri build
 
 
 <!-- ROADMAP -->
-<!-- ## Roadmap
+## Roadmap
 
-- [ ] Feature 1
+<!-- - [ ] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
-    - [ ] Nested Feature
+    - [ ] Nested Feature -->
 
 See the [open issues](https://github.com/Phoeenix05/game-library/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 

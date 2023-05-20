@@ -1,3 +1,3 @@
-export default function StatusPage_404() {
+export default function Status404() {
   return (<h1>404</h1>)
 }
